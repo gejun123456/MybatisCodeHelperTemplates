@@ -6,4 +6,4 @@
 ### 2. Go to Settings->Other->EasyCode-MybatisCodeHelper->导入模版
 ### 3.import the json file
 ### 4.open global config mybatiscodehelper.vm, change the config to your own
-### 5.you can get mybatiscodehelper.vm info from mybatis generator migrate to template.
+### 5.you can get mybatiscodehelper.vm info from MybatisCodeHelperPro plugin(3.1.8) mybatis generator migrate to template.
